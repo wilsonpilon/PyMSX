@@ -21,8 +21,8 @@ Frontend modular em Python para centralizar ferramentas MSX usando CustomTkinter
 
 ```bash
 # Clone o repositório
-git clone https://github.com/wilsonpilon/PyMSX.git
-cd PyMSX
+git clone https://github.com/wilsonpilon/msx-tools-frontend.git
+cd msx-tools-frontend
 
 # Instale as dependências
 pip install -r requirements.txt
@@ -43,7 +43,7 @@ Na primeira execução, o sistema irá:
 ## 📁 Estrutura do Projeto
 
 ```
-PyMSX/
+msx-tools-frontend/
 ├── main.py                 # Ponto de entrada
 ├── requirements.txt        # Dependências
 ├── config/
@@ -77,3 +77,4 @@ MIT License
 ## 👤 Autor
 
 Wilson Pilon (@wilsonpilon)
+```
